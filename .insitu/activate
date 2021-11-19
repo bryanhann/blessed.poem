@@ -1,1 +1,3 @@
 echo activated: $PWD
+cd ..
+export BLESSED_POEM=$PWD
